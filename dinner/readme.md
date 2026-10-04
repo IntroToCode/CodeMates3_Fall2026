@@ -1,36 +1,47 @@
-# Replace with recipe name
+# Thai Green Curry
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+A tasty Thai green curry with a little spice! Packed with delish veggies to make sure you get extra nuturition.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 15 minutes |
+| Cook Time | 55 minutes |
+| Total Time | 110 minutes |
+| Servings | e.g. 5 |
+| Difficulty | Medium |
+| Tags | dinner, healthy, spicy |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+- [4] chicken breasts (diced)
+- [2 cups] Rice
+- [3 Tbs] Green curry paste
+- [1 can] coconut milk
+- [1] sliced eggplant
+- [1 head] chopped broccoli
+- [3 large] chopped carrots
+- [1] sliced pepper
+- [1 tbs] grated ginger
+- [2 cloves] finely chopped garlic
+- [2] lime leaves
+- [5] fried eggs (for topper)
+- coconut oil for cooking
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Step one. Cook rice in side pot. Chop all veggies. Dice chicken and sautee curry paste, garlic, ginger until aromatic. Add chicken and cook.
+2. Step two. Add coconut milk. Add veggies until steamed. 
+3. Step three. Fry egg and serve!
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+Remove chicken to make vegetarian. Add extra chili if you want extra spicy!
 
-### Author(s):
+
+### Author(s): Taylor Dahlgren
