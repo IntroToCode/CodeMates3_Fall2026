@@ -1,37 +1,46 @@
-# Replace with recipe name
+# Chipotle Bowl
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+A classic Chipotle bowl with half steak, half chicken, white rice, guacamole, fajita veggies, cheese, spicy salsa, and light sour cream. Served with chips on the side and a crispy Diet Coke.
 
 ## Stats
 
 | Field | Info |
-|-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
-
-<!-- Note the fields in the markdown table -->
+|--------|------|
+| Prep Time | 5 minutes |
+| Cook Time | 0 minutes |
+| Total Time | 5 minutes |
+| Servings | 1 |
+| Difficulty | Easy |
+| Tags | lunch, quick, Chipotle, high-protein |
 
 ### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+
+- [ ] Half portion steak
+- [ ] Half portion chicken
+- [ ] White rice
+- [ ] Guacamole
+- [ ] Fajita veggies
+- [ ] Cheese
+- [ ] Spicy salsa
+- [ ] Light sour cream
+- [ ] Chips on the side
+- [ ] Diet Coke
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Start with a base of white rice.
+2. Add half steak and half chicken.
+3. Add fajita veggies, cheese, and spicy salsa.
+4. Top with guacamole and a light amount of sour cream.
+5. Serve with chips on the side and a crispy Diet Coke.
 
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+Best eaten immediately while everything is fresh. Chips are optional, but strongly encouraged.
 
 ### Author(s):
+
+Ishani Ganguly
 
