@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
-- Lunch: 
+- Breakfast: breakfast/readme.md
+- Lunch: lunch/readme.md
 - Dinner: dinner/readme.md
 
 _Notes_
-__
+__So excited to eat all this food!
