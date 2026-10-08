@@ -14,6 +14,7 @@ A tasty Thai green curry with a little spice! Packed with delish veggies to make
 | Servings | e.g. 5 |
 | Difficulty | Medium |
 | Tags | dinner, healthy, spicy |
+| Spice Level | 🌶️🌶️🌶️ |
 
 <!-- Note the fields in the markdown table -->
 

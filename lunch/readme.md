@@ -13,6 +13,7 @@ A classic Chipotle bowl with half steak, half chicken, white rice, guacamole, fa
 | Total Time | 5 minutes |
 | Servings | 1 |
 | Difficulty | Easy |
+| Spice Level |🌶️🌶️ |
 | Tags | lunch, quick, Chipotle, high-protein |
 
 ### Ingredients:

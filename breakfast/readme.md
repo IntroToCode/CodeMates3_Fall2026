@@ -13,6 +13,7 @@ The classic New York brunch plate: a toasted English muffin topped with seared C
 | Total Time | 40 minutes |
 | Servings | 4 (2 halves each) |
 | Difficulty | Medium |
+| Spice Level | 🌶️ |
 | Tags | brunch, breakfast, classic, eggs, NYC |
 
 <!-- Note the fields in the markdown table -->
