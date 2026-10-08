@@ -14,6 +14,7 @@ The classic New York brunch plate: a toasted English muffin topped with seared C
 | Servings | 4 (2 halves each) |
 | Difficulty | Medium |
 | Tags | brunch, breakfast, classic, eggs, NYC |
+| Spice Level | 🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
