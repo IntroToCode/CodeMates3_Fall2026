@@ -4,6 +4,8 @@
 
 A tasty Thai green curry with a little spice! Packed with delish veggies to make sure you get extra nuturition.
 
+We'll serve dinner with the perfect pairing: dinner attendees can choose between an IPA and a classic Thai tea. 
+
 ## Stats
 
 | Field | Info |
@@ -32,6 +34,11 @@ A tasty Thai green curry with a little spice! Packed with delish veggies to make
 - [2] lime leaves
 - [5] fried eggs (for topper)
 - coconut oil for cooking
+
+## Drink Ingredients: 
+- [4] cups of coffee
+- [1] can sweetened condensed milk
+- [4] cans of Temescal Brewing Hazy IPA
 
 ### Steps for preparation:
 
