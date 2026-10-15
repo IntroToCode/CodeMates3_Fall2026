@@ -1,4 +1,4 @@
-# Chipotle Bowl
+# Chipotle Bowls
 
 ## Description
 
