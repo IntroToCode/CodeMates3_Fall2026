@@ -13,7 +13,7 @@ We'll serve dinner with the perfect pairing: dinner attendees can choose between
 | Prep Time | 15 minutes |
 | Cook Time | 55 minutes |
 | Total Time | 110 minutes |
-| Servings | e.g. 5 |
+| Servings | e.g. 10 |
 | Difficulty | Medium |
 | Tags | dinner, healthy, spicy |
 | Spice Level | 🌶️🌶️🌶️ |
@@ -21,24 +21,24 @@ We'll serve dinner with the perfect pairing: dinner attendees can choose between
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [4] chicken breasts (diced)
-- [2 cups] Rice
-- [3 Tbs] Green curry paste
-- [1 can] coconut milk
-- [1] sliced eggplant
-- [1 head] chopped broccoli
-- [3 large] chopped carrots
-- [1] sliced pepper
-- [1 tbs] grated ginger
-- [2 cloves] finely chopped garlic
-- [2] lime leaves
-- [5] fried eggs (for topper)
+- [8] chicken breasts (diced)
+- [4 cups] Rice
+- [6 Tbs] Green curry paste
+- [2 can] coconut milk
+- [2] sliced eggplant
+- [2 head] chopped broccoli
+- [6 large] chopped carrots
+- [2] sliced pepper
+- [2 tbs] grated ginger
+- [4 cloves] finely chopped garlic
+- [4] lime leaves
+- [10] fried eggs (for topper)
 - coconut oil for cooking
 
 ## Drink Ingredients: 
-- [4] cups of coffee
-- [1] can sweetened condensed milk
-- [4] cans of Temescal Brewing Hazy IPA
+- [8] cups of coffee
+- [2] can sweetened condensed milk
+- [8] cans of Temescal Brewing Hazy IPA
 
 ### Steps for preparation:
 
