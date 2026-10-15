@@ -2,7 +2,7 @@
 
 ## Description
 
-A classic Chipotle bowl with half steak, half chicken, white rice, guacamole, fajita veggies, cheese, spicy salsa, and light sour cream. Served with chips on the side and a crispy Diet Coke.
+A classic Chipotle bowl with half steak, half chicken, brown rice, guacamole, fajita veggies, cheese, spicy salsa, and light sour cream. Served with chips on the side and a crispy Diet Coke.
 
 ## Stats
 
@@ -20,7 +20,7 @@ A classic Chipotle bowl with half steak, half chicken, white rice, guacamole, fa
 
 - [ ] Half portion steak
 - [ ] Half portion chicken
-- [ ] White rice
+- [ ] Brown rice
 - [ ] Guacamole
 - [ ] Fajita veggies
 - [ ] Cheese
@@ -31,7 +31,7 @@ A classic Chipotle bowl with half steak, half chicken, white rice, guacamole, fa
 
 ### Steps for preparation:
 
-1. Start with a base of white rice.
+1. Start with a base of brown rice.
 2. Add half steak and half chicken.
 3. Add fajita veggies, cheese, and spicy salsa.
 4. Top with guacamole and a light amount of sour cream.
